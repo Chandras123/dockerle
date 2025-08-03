@@ -1,2 +1,2 @@
-# This repos is used to create roboshop project with a microservices application#
+# This repos is used to create roboshop project which isa microservice application#
 
